@@ -1,8 +1,8 @@
 > [!WARNING]
 > Original credits go to Xylex (7GrandDadPGN on GitHub) for Vape V4.
 
-<p align="center">
-  <h1 style="color: white; text-align: center;">Sunlight Intents</h1>
+<h1 align="center">
+  Sunlight Intents
 </p>
 <h2 align="center">
   A Roblox script built from the ground up for your precise needs!
