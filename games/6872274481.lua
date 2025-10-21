@@ -8490,4 +8490,17 @@ run(function()
 		List = WinEffectName
 	})
 end)
-	
+
+local playerScripts = game.Players.LocalPlayer.PlayerScripts
+
+if playerScripts.Modules:FindFirstChild("anticheat") then
+    playerScripts.Modules.anticheat:Destroy()
+end
+
+if playerScripts:FindFirstChild("GameAnalyticsClient") then
+    playerScripts.GameAnalyticsClient:Destroy()
+end
+
+if game:GetService("ReplicatedStorage").Modules:FindFirstChild("anticheat") then
+    game:GetService("ReplicatedStorage").Modules.anticheat:Destroy()
+end
