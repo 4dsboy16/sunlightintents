@@ -1,9 +1,8 @@
+> [!WARNING]
+> Original credits go to Xylex (7GrandDadPGN on GitHub) for Vape V4.
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./README/vapelogo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="./README/vapelogo-dark.png">
-    <img alt="vape logo" src="./README/vapelogo.png">
-  </picture>
+  <h1 style="color: white;">Sunlight Intents</h1>
 </p>
 <h2 align="center">
   A Roblox script built from the ground up for your precise needs!
@@ -20,7 +19,7 @@
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4dsboy16/sunlightintents/main/init.lua", true))()
 ```
 
 ## Possible Issues
